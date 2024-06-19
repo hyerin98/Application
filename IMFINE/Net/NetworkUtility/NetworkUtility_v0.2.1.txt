@@ -1,0 +1,8 @@
+- v0.2.1
+    - GetGatewayIPAddress() 함수로 게이트웨이 주소 정보를 얻을 수 있습니다.
+- v0.2.0
+    - Package 타입이 Net으로 변경되었습니다.
+    - GetLocalNetworkInfoList() 함수로 연결된 전체 네트워크 인터페이스의 정보를 얻을 수 있습니다.
+    - IPv4, Multicast의 IP 주소 유효성 검사 기능을 제공합니다.
+- v0.1.0
+    - GetLocalIPAddress() 함수로 local IP 정보를 얻을 수 있습니다.

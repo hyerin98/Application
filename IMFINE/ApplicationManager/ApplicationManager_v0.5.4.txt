@@ -1,0 +1,44 @@
+- v0.5.4
+    - Application Directory - Data File Loader 기능 추가
+- v0.5.3
+    - 앱 종료 (Esc)키 이중키로 변경
+- v0.5.2
+    - 시작시 마우스 노출 여부 옵션 추가
+    - Minimize 기능 제거 -> WindowManager로 이동
+- v0.5.1
+    - Shift + M : 마우스 노출
+    - Shift + L : 유니티 로그 오픈
+- v0.5.0
+    - Windows용 PreventKey 기능 추가
+- v0.4.4
+    - Data 경로에서 Product Name을 사용하는 경우 Product Name에서 공백 제거해서 사용하도록 변경
+- v0.4.3
+    - [Android] Internal, External 옵션 추가
+- v0.4.2
+    - 불필요한 ApplicationSetting, Editor 스크립트 삭제
+    - ApplicationEvent에 불가능한 이벤트 삭제
+    - ApplicationEvent에 Focus, Pause 이벤트 추가
+- v0.4.1
+    - ApplicationSettings가 ApplicationManager로 변경되고 Singleton으로 수정
+    - [Android] App Restart, Minimize 기능 추가
+- v0.4.0
+    - Application Event: [Android] 하드웨어 버튼 이벤트 추가
+- v0.3.4
+    - 버그 수정
+- v0.3.3
+    - iOS 지원
+- v0.3.2
+    - 빈 콜백함수 제거
+- v0.3.1
+    - [PC] Mouse Cursor 숨김. M키로 on/off 기능 추가
+    - 치명적인 (나이게) 버그 수정.
+- v0.3.0
+    - Application Directory를 Application Manager로 통합
+    - [공통] FPS 설정 기능 추가 30 or 60
+    - [PC] Esc키를 누르면 프로그램이 종료되는 기능 추가
+    - [Android] Enable Screen Never Sleep 기능 추가
+- 0.2.0
+    - 일부 Android 기기 또는 AOS에서 발생하는 경로 참조 버그 수정
+- 0.1.0
+    - PC와 Android에 따른 data 폴더 위치 관리
+    - data 폴더가 없는경우 폴더 자동 생성.

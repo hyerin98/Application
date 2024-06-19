@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 228ee80d8329892468f47ef107907245
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TWK Everett
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1077b108c5ce5824585c78480a43bc58, type: 3}
+  - {fileID: 12800000, guid: e0c0598e7a72fe04d962dadb9a1889ea, type: 3}
+  - {fileID: 12800000, guid: a1dd63fc67c48c848ae19c3b140a485e, type: 3}
+  - {fileID: 12800000, guid: 80fdb1bf7b2588b4ab05fa815323a546, type: 3}
+  - {fileID: 12800000, guid: 803cb99bf8ff217408c2f15626d8d7c7, type: 3}
+  - {fileID: 12800000, guid: 02cf772bd7994ea479525bfe1caa2972, type: 3}
+  - {fileID: 12800000, guid: 8073152cac819fa4a853f5bbb28140dd, type: 3}
+  - {fileID: 12800000, guid: 80bc5a9d5888a414ab0ef1af008f76db, type: 3}
+  - {fileID: 12800000, guid: a0ef94a90bb7aea4787891c78a7955dc, type: 3}
+  - {fileID: 12800000, guid: 91431e23264b993439f4e7ec1e6dbe08, type: 3}
+  - {fileID: 12800000, guid: 903f7a6f91c74bf46954daac1b1ad72a, type: 3}
+  - {fileID: 12800000, guid: 7121b9fc935aebe4183168999fbbc5d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

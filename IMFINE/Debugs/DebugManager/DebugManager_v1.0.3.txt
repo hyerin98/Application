@@ -1,0 +1,9 @@
+- v1.0.3
+    - 인풋필드에서 쉬프트(이중키)를 사용할 수 없었던 현상 수정
+- v1.0.2
+    - 패널의 Active 방식을 Scale -> Canvasgroup으로 변경
+    - 디버그 키를 이용하는 경우 InputField에 영향을 주는 현상 수정
+- v1.0.1
+    - Shift키 조합 옵션 추가
+- v1.0.0
+    - Version Manager, Trace Box, Toast와 병합함 (DebugCanvas 이용)

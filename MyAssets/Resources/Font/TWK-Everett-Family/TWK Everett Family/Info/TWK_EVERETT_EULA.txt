@@ -1,0 +1,17 @@
+TWK Everett is available exclusively through TYPE.WELTKERN® and its usage is governed by our Font Software End User License Agreement (EULA). When using our fonts, you acknowledge that you have read, understood and agreed to be bound by the terms and conditions of our Font Software EULA.
+
+Lawful use of the fonts or the data contained within the font files excludes modifying, reassembling, renaming, storing on publicly available servers, redistributing and selling. Any unlawful use of this typographic software will be prosecuted. For additional information please see https://type.weltkern.com/licensing
+
+Family Name         TWK Everett
+Version             3.100
+Date                21 03 21
+Desktop fonts       OTF
+Webfonts            TTF, WOFF, WOFF2
+Designer            Nolan Paparelli
+Designer URL        nolan-paparelli.ch
+Manufacturer        TYPE.WELTKERN®
+Manufacturer URL    type.weltkern.com
+Manufacturer email  type@weltkern.com
+License URL         type.weltkern.com/licensing
+Copyright           © 2021 by TYPE.WELTKERN®.
+                    All rights reserved.

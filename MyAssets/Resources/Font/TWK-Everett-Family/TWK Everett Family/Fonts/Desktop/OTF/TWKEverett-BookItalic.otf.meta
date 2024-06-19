@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: 80fdb1bf7b2588b4ab05fa815323a546
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TWK Everett
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 1077b108c5ce5824585c78480a43bc58, type: 3}
+  - {fileID: 12800000, guid: 803cb99bf8ff217408c2f15626d8d7c7, type: 3}
+  - {fileID: 12800000, guid: 8073152cac819fa4a853f5bbb28140dd, type: 3}
+  - {fileID: 12800000, guid: 80bc5a9d5888a414ab0ef1af008f76db, type: 3}
+  - {fileID: 12800000, guid: 903f7a6f91c74bf46954daac1b1ad72a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

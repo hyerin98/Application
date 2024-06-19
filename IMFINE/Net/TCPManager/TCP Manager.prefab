@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &21858207763025067
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7965814813373169300}
+  - component: {fileID: 6104994933575193507}
+  - component: {fileID: 8060637557962125847}
+  - component: {fileID: 9206175369593041384}
+  m_Layer: 0
+  m_Name: TCP Manager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7965814813373169300
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 21858207763025067}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6104994933575193507
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 21858207763025067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95bc38b1b1ffdd14e898969e48c60124, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _enableAutoConnection: 0
+  _isServer: 1
+  _id: A
+  _serverIp: 192.168.1.83
+  _serverPort: 49157
+  _syncInterval: 30
+  _enableDetailedLog: 0
+  _enableMessageLog: 1
+--- !u!114 &8060637557962125847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 21858207763025067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29c6e494eb5011e49b01bdcaba8458f0, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serverBaseClient:
+    id: 
+    ip: 
+    port: 0
+    isOnline: 0
+    lack: 0
+--- !u!114 &9206175369593041384
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 21858207763025067}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c0843b124685ba438b66e0ffc1f48b7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  baseClient:
+    id: 
+    ip: 
+    port: 0
+    isOnline: 0
+    lack: 0
+  serverBaseClient:
+    id: 
+    ip: 
+    port: 0
+    isOnline: 0
+    lack: 0

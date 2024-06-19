@@ -1,0 +1,18 @@
+- v0.5.4
+    - showDebugLog 옵션을 활성화 한 경우 Thread에서 발생하는 로그도 출력되도록 개선
+- v0.5.3
+    - ScrollRect의 드래그 스크롤 허용 (2022.3 버전에서 Scrollbar 안되는 오류로)
+- v0.5.2
+    - Exception, Assert 로그에 stackTrace 추가
+- v0.5.1
+    - showDebugLog 옵션 활성화 했을때 들어오는 에러, 경고 메세지에 stackTrace 추가 제공
+- v0.5.0
+    - TraceLogPrinted 이벤트 제공
+- v0.4.1
+    - 키 디버그 삭제
+- v0.4.0
+    - 애셋 정리
+    - Show Debug Log 추가
+    - Trace와 Debug로 동시에 들어오는 로그는 하나만 출력
+- v0.3.2
+    - 텍스트 라인 한계 값 초과로 인한 기존 텍스트 삭제 시 로그 카운트 단위로 삭제되게 수정

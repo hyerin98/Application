@@ -1,0 +1,33 @@
+- v1.3.2
+    - ApplicationManager v0.5.4 업데이트
+- v1.3.1
+    - ApplicationManager v0.5.3 업데이트
+- v1.3.0
+    - DebugCanvas가 모든 해상도에 대응되도록 Screen Match Mode 설정
+    - DebugManager v1.0.3 업데이트
+    - ApplicationManager v0.5.2 업데이트
+    - SettingUI v1.2.0 업데이트
+    - ConfigManager v1.1.0 업데이트
+- v1.2.8
+    - TraceBox v0.5.4 업데이트
+- v1.2.7
+    - SettingUI v1.1.1 업데이트
+- v1.2.6
+    - Debug Manager v1.0.2 업데이트
+- v1.2.5
+    - SettingUI v1.1.0 업데이트
+- v1.2.4
+    - TraceBox 업데이트
+- v1.2.3
+    - Version Manager 업데이트
+- v1.2.2
+    - Application Manager 업데이트
+    - TraceBox 업데이트
+    - Debug Canvas 가로, 세로 합병 프리팹 제공
+- v1.2.1
+    - Application Manager 업데이트
+- v1.2.0
+    - TraceBox 업데이트
+    - Application Manager 업데이트
+- v1.1.0
+    - 전체 최적화
